@@ -14,6 +14,7 @@ facebook.com, 1886350302019254, DIRECT, c3e20eee3f780d68
 facebook.com, 1434505555026171, DIRECT, c3e20eee3f780d68
 facebook.com, 2452169421880133, DIRECT, c3e20eee3f780d68
 facebook.com, 1343310090939706, DIRECT, c3e20eee3f780d68
+facebook.com, 2248491905897361, DIRECT, c3e20eee3f780d68
 toponad.com, 167600e65c5e0a, DIRECT, 1d49fe424a1a456d
 adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
 adelement.com, 30273, RESELLER
